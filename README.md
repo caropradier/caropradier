@@ -4,7 +4,7 @@
 
 - Economist + Master in Labour Studies (UBA).
   
-- PhD student at [EBSI - Univerité de Montréal](https://ebsi.umontreal.ca/programmes-cours/cycles-superieurs/doctorat-en-sciences-information/)
+- PhD student at [EBSI - Université de Montréal](https://ebsi.umontreal.ca/programmes-cours/cycles-superieurs/doctorat-en-sciences-information/)
 
 - [`eph`](https://github.com/ropensci/eph) maintainer
 
